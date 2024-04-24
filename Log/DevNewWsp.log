@@ -1,0 +1,15 @@
+﻿24 Apr 2024 14:54:58 - Saving file AdminDataTemplates.xml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\AdminDataTemplates.xml)
+24 Apr 2024 14:54:59 - Saving file TC387BSW_VCTR.dcf (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\TC387BSW_VCTR.dcf)
+24 Apr 2024 14:54:59 - Start import
+24 Apr 2024 14:54:59 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.7\Bin\Predefines\StandardPackages_AR4.arxml).
+24 Apr 2024 14:55:00 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.7\Bin\Predefines\ServicePortInterfaces_4.4.0.arxml).
+24 Apr 2024 14:55:00 - Importing file (C:\Program Files (x86)\Vector DaVinci Developer 4.7\Bin\Predefines\ApplicationPortInterfaces_4.4.0.arxml).
+24 Apr 2024 14:55:00 - Importing file (C:\WORK\Vector_Cfg\01_V01.1\Config\AUTOSAR\PlatformTypes_AR4.arxml).
+24 Apr 2024 14:55:00 - Merging imported data
+24 Apr 2024 14:55:02 - Finished import
+24 Apr 2024 14:55:02 - Saving file ProfileSettings.xml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\ProfileSettings.xml)
+24 Apr 2024 14:55:02 - Saving file Packages.arxml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\Packages.arxml)
+24 Apr 2024 14:55:03 - Saving file DataTypes.arxml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\DataTypes.arxml)
+24 Apr 2024 14:55:03 - Saving file PortInterfaces.arxml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\PortInterfaces.arxml)
+24 Apr 2024 14:55:03 - Saving file TC387BSW_VCTR.arxml (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\ECUProjects\TC387BSW_VCTR.arxml)
+24 Apr 2024 14:55:03 - Saving file TC387BSW_VCTR.dcf (C:\WORK\Vector_Cfg\01_V01.1\Config\Developer\TC387BSW_VCTR.dcf)

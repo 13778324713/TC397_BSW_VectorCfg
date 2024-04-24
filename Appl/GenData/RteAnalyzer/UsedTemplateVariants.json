@@ -1,0 +1,212 @@
+{
+   "description" : "RTE Analyzer used templates",
+   "version" : "1.20.0",
+   "RTEOutputDirectory" : "C:/WORK/Vector_Cfg/01_V01.1/Appl/GenData/",
+   "Templates" : {
+      "Rte.c" : {
+         "Rte_DisableAllInterrupts" : {
+            "2220d8cbe5a86d9386e0df9c463a628a" : {},
+            "e1b46dec18b0478ca7e71adddae2cb1d" : {}
+         },
+         "Rte_DisableOSInterrupts" : {
+            "e59364e2fcf2ee9155a3e3c26cb20445" : {},
+            "ff34ce7d6deade1adfd6e582381516a0" : {}
+         },
+         "Rte_EnableAllInterrupts" : {
+            "3f84d7b9b7ade0cd77bdc1e6eed8c7dd" : {},
+            "c504792e256fbebc6ead74c941f512ac" : {}
+         },
+         "Rte_EnableOSInterrupts" : {
+            "33ccb39486eae1fbb16f63b8f5a5e6ff" : {},
+            "5a1108ae51c98b09a4d1685b129fd824" : {}
+         },
+         "Rte_InitMemory" : {
+            "15fcf6d1e887dceaa00cfed12e7a78ad" : {},
+            "1970a0b3ad48c580216c2e426afa8cfa" : {},
+            "1f44b73f92d9062fe0658f8c56f8c74c" : {},
+            "2793971d7324fcbd51fa57695be22347" : {},
+            "34e50c35f4321c3bb394af479668b552" : {},
+            "3c569fb07a0fa73007c95a5ae2d79de6" : {},
+            "3dbcf06996ccb0aeb4cfd8542cf07981" : {},
+            "3e8b6279c0a818ad00fb027800dd2717" : {},
+            "3e8eea9cef92f919eda717a69bf5fdfb" : {},
+            "418e27efde9eb4d016cc8fe8b863c656" : {},
+            "41a6738410881b0d662c06b4b97a51ae" : {},
+            "48960beb30928119ae88461460863d90" : {},
+            "4f0917f33dc02004cd9880a36599cd8d" : {},
+            "57f41d382974339fc479e01c486e7c01" : {},
+            "7cddc6170cbfe4684b1d504c6a3e85f5" : {},
+            "86b5032c95cb0ee4a79aea41283edf74" : {},
+            "95a45ecb7fd96ad40d096f8f6485eb22" : {},
+            "a38f3a19dcd80930e402e8874c73d65c" : {},
+            "a8b890f7ee1810b7c000f3fc0f8d94de" : {},
+            "a928cb1474793325d4d2c9cbf516ad40" : {},
+            "c0b737397417bac386a3b0cf06f2e099" : {},
+            "d051b42ed4e4012b200d5c2e9c046608" : {},
+            "d7436efe80b3f32ef09957b78e63e2d6" : {},
+            "d7ae3eb0504cb6d9ba411c4684156968" : {},
+            "dece9e95904ca037cbbbc65c19c1b3a7" : {},
+            "e46237bb6caa1d8810c68cec67496dca" : {}
+         },
+         "Rte_Start" : {
+            "0a8b3b81d684dc4195143d187b4f28a2" : {},
+            "20eafcf389ef262612dd60887ffcffc8" : {},
+            "262abf76301e7212d9fa05a230d9f848" : {},
+            "43bab2497983cce79821d4ebfdb26077" : {},
+            "469a6018fee4efb9e8068c623092e9bd" : {},
+            "47dadfbbaf7aaa1516e6cd03e5744f63" : {},
+            "4fe3851f0c11a2ace9331b0df0e8510a" : {},
+            "56445466dc1b138aa971c822c28d98e2" : {},
+            "5d167cc327c7f3990c27ae7f964b1479" : {},
+            "7a92fa0c703258cc57a5db5072e9c67b" : {},
+            "8969604af6b443930e46f6eb68e0a44e" : {},
+            "8c59b4eb0c65a5447465035c5d5b63e3" : {},
+            "8fc732fc7c2fd665022e233b2e82d955" : {},
+            "9e23f15f2f9e9efb42f2eb14bf0c3227" : {},
+            "9ee4996acacbd29a3ec6b8ce55359aa7" : {},
+            "abfac8d6b08656273c94b6aceccceeff" : {},
+            "af75bd184864c2da323c8257b780888d" : {},
+            "c9e98da718f0716c779c5a0db6d32361" : {},
+            "d0a4b64b1709adbcfc031d9fc3eca7e4" : {},
+            "dd027c504f6826538d0c8151741ec778" : {},
+            "f0591991a7b86fa2c9c6cd6c2c5ecfff" : {}
+         },
+         "Rte_Stop" : {
+            "1e10b8cdceaaed5c6eeedc392882b2fb" : {},
+            "2aa0adb0572cfe713aef4cf9b4964793" : {},
+            "2eb428974462ee9191b4a748c0e8d5c3" : {},
+            "4401391aa4be4677ec7161c59224fd08" : {},
+            "72cbb786a8da88b5c8317ff6a7683fb5" : {},
+            "b0108760a1ae31f824e6a10600e34a7f" : {},
+            "bcc30a9a76797b51d7dacc816ae57531" : {},
+            "e1d72348043c3425a06443f052a0e51e" : {}
+         },
+         "SchM_Deinit" : {
+            "085f94c237cddd15e2614bcafb729020" : {},
+            "5cccaaf0c1411d95200cb27039ee5be1" : {},
+            "87753171930d409e65c80488aa31b88f" : {},
+            "b7e48d7a0bd589197fe79759df871ed5" : {},
+            "bd81f6fd6d767b71f1a66bf0442428ff" : {},
+            "c717883cbf7eecb83c9bc6d212d63a74" : {},
+            "de978f08d110ef6fe3cc7760bcad9bb3" : {},
+            "ee28389b794460931392ead28cad1554" : {}
+         },
+         "SchM_Enter_Mcu_AtomAgcReg" : {
+            "7aa40833dcb49235c9b574b84b5722df" : {},
+            "947284389f0d67e05d1e0a958f5ed264" : {}
+         },
+         "SchM_Enter_Mcu_TomTgcReg" : {
+            "7aa40833dcb49235c9b574b84b5722df" : {},
+            "947284389f0d67e05d1e0a958f5ed264" : {}
+         },
+         "SchM_Exit_Mcu_AtomAgcReg" : {
+            "59f534223c44e1c23e1aa7ae0871f63f" : {},
+            "7aa40833dcb49235c9b574b84b5722df" : {}
+         },
+         "SchM_Exit_Mcu_TomTgcReg" : {
+            "59f534223c44e1c23e1aa7ae0871f63f" : {},
+            "7aa40833dcb49235c9b574b84b5722df" : {}
+         },
+         "SchM_Init" : {
+            "37b4b85a6cc9f852a92c19cd381d7655" : {},
+            "5497bb60a69ee2874c46e6281bc8fe3a" : {},
+            "7e293cc4e10bb44bed3e5ddf4287be4a" : {},
+            "a785fd41db20250bac2300896ee8dbee" : {},
+            "a813cdab9038b5933c04fc0db3a05b1c" : {},
+            "b009fb9446e25c222fd56d841b19d74d" : {},
+            "c0f16f399b2a45c35212f3223b55b39f" : {},
+            "c6ae291e674de2e93a3bf7101d9b4029" : {},
+            "d74e736c857523d804833c29ef1bde89" : {},
+            "de369395b30bc76d91e50c84a3541f17" : {}
+         },
+         "TASK(OsTask_10ms__OsCore0)" : {
+            "001a3efbfe49b7d5be906b5d15d108f6" : {},
+            "0f9f4cce9fa0015c3382df56b930469c" : {},
+            "12da8d4797581dc299660cfb668a3a6b" : {},
+            "1b123921efa08c0c5dcacf7af5bb0e09" : {},
+            "2aac5d65e80a96bea6e19fb64873b3e0" : {},
+            "3414df247e45b319f4ae35b1cef1c004" : {},
+            "34af92b1c9c2153872a9ef4790eebd0a" : {},
+            "3b7ee8908c44bcdcb5144f833a5ab5ab" : {},
+            "41acb2c33defbe43a412a0c78058edfe" : {},
+            "4ee294fa49463811fffa265644cfd97f" : {},
+            "6769cbc9af67d0a837e5d0b429c68907" : {},
+            "6abcd73f77ba0f0c7932bb3ce085d737" : {},
+            "6d706ac1540a908c81fd20b9fadf7b21" : {},
+            "7b46780790d0ea770b24f4f8fdbabf17" : {},
+            "7c2459f385738818710b91822e44068f" : {},
+            "7e7562d0543f3db67e72a761aba526ba" : {},
+            "8439aff64d10d719dc4c67c405a95bcc" : {},
+            "86e2f9c7837c9bf7ce55b5a05a4c0543" : {},
+            "8faae30a912a8aceebfcb72d774a7a32" : {},
+            "99613e7531feb4b3317632643e798815" : {},
+            "9bbe16e5f7debca9c9711cda4389a721" : {},
+            "a894c7656c240f56962d8c99ed997011" : {},
+            "b0480f5953da406298cf56f290cdc9aa" : {},
+            "bfdc05ffce13466b4ba700c7c225287c" : {}
+         }
+      },
+      "Rte.h" : {
+         "Rte_ApplicationError" : {
+            "68b807dbfe65ccb74d9c2f90001350b0" : {}
+         },
+         "Rte_CallDetReportError" : {
+            "22fb62b2c240868b0434bb0a2fd30017" : {}
+         },
+         "Rte_CheckDetErrorContinue" : {
+            "f89b5f04b7006a92359307de82ea69d5" : {}
+         },
+         "Rte_CheckDetErrorReturnValue" : {
+            "d002d7c1c4d2eded1bb4bb76683163d1" : {}
+         },
+         "Rte_CheckDetErrorReturnVoid" : {
+            "ae8b8f960fccd410e6590c4b86dc43b4" : {}
+         },
+         "Rte_HasOverlayedError" : {
+            "90e93525a6893ae543d13a6c3de5c82c" : {}
+         },
+         "Rte_IsHardTransformerError" : {
+            "3a1bdc33818e5222cf3eb66ad4720b2c" : {}
+         },
+         "Rte_IsInfrastructureError" : {
+            "038e9184c14bb2430dc54c6531e37f99" : {}
+         }
+      },
+      "SchM_BswM.h" : {
+         "SchM_Enter_BswM_BSWM_EXCLUSIVE_AREA_0" : {
+            "d04949d119d50064b356ac78c5423a4b" : {}
+         },
+         "SchM_Exit_BswM_BSWM_EXCLUSIVE_AREA_0" : {
+            "70f7afa710b9bdb6e8591ae22e0fec5a" : {}
+         }
+      },
+      "SchM_Det.h" : {
+         "SchM_Enter_Det_DET_EXCLUSIVE_AREA_0" : {
+            "d04949d119d50064b356ac78c5423a4b" : {}
+         },
+         "SchM_Exit_Det_DET_EXCLUSIVE_AREA_0" : {
+            "70f7afa710b9bdb6e8591ae22e0fec5a" : {}
+         }
+      },
+      "SchM_EcuM.h" : {
+         "SchM_Enter_EcuM_ECUM_EXCLUSIVE_AREA_0" : {
+            "d04949d119d50064b356ac78c5423a4b" : {}
+         },
+         "SchM_Enter_EcuM_ECUM_EXCLUSIVE_AREA_1" : {
+            "d04949d119d50064b356ac78c5423a4b" : {}
+         },
+         "SchM_Enter_EcuM_ECUM_EXCLUSIVE_AREA_2" : {
+            "d04949d119d50064b356ac78c5423a4b" : {}
+         },
+         "SchM_Exit_EcuM_ECUM_EXCLUSIVE_AREA_0" : {
+            "70f7afa710b9bdb6e8591ae22e0fec5a" : {}
+         },
+         "SchM_Exit_EcuM_ECUM_EXCLUSIVE_AREA_1" : {
+            "70f7afa710b9bdb6e8591ae22e0fec5a" : {}
+         },
+         "SchM_Exit_EcuM_ECUM_EXCLUSIVE_AREA_2" : {
+            "70f7afa710b9bdb6e8591ae22e0fec5a" : {}
+         }
+      }
+   }
+}

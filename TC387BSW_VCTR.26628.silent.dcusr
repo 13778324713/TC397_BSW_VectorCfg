@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Settings>
+    <Settings Name="CFG5_GUI_SETTING">
+        <Settings Name="com.vector.cfg.dom.modemgt.ui.editor.bswm.rule.RulesPart">
+            <Setting Value="0,1,2,3,4,5,6," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:71,2:167,3:87,4:125,5:128,6:169," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.dom.runtimesys.ui.editor.internal.bswinternalbehavior.parts.BswEventsGridPart">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:238,2:127,3:102," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.dom.runtimesys.ui.editor.internal.bswinternalbehavior.parts.BswExclusiveAreasGridPart">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:200,2:102," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.dom.runtimesys.ui.editor.internal.bswinternalbehavior.parts.TriggeringSchedulableEntitesGridPart">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:238,2:127,3:102," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.dom.runtimesys.ui.editor.internal.taskmapping.parts.TaskMappingGridPart">
+            <Setting Value="0,1,2," Name="nattable.BODY.BODY.columnIndexOrder"/>
+            <Setting Value="0:69,1:185,2:185," Name="nattable.BODY.BODY.columnWidth.sizes"/>
+            <Setting Value="0:69,1:185,2:185," Name="nattable.BODY.FOOT_SUMMARY_REGION.columnWidth.sizes"/>
+            <Setting Value="0:69,1:185,2:185," Name="nattable.BODY.HEAD_SUMMARY_REGION.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="0" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.app.dvcfg.views.validation.validationview.hideack">
+            <Setting Value="false" Name="buttonStateAck"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.app.dvcfg.views.validation.validationview.hideerror">
+            <Setting Value="false" Name="buttonStateError"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.app.dvcfg.views.validation.validationview.hideinfo">
+            <Setting Value="false" Name="buttonStateInfo"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.app.dvcfg.views.validation.validationview.hidewarn">
+            <Setting Value="false" Name="buttonStateWarn"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.app.views.validation.table.ValidationViewTable">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:250,1:500,2:250," Name="nattable.BODY.columnWidth.sizes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.core.ctrl.simple.ReferenceGridPart">
+            <Setting Value="0,1," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:252,1:334," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="0" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.danglingreference.view.DanglingReferencesView"/>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.AURIX2G.EcucDefs.ResourceM.ResourceMMcalConfig.ResourceMMcalCore">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:164,2:81," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig">
+            <Setting Value="0,1,2,3,4," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:116,2:86,3:121,4:108," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig.BswMArbitration.BswMLogicalExpression">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:182,2:136,3:117," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig.BswMArbitration.BswMModeCondition">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:169,2:132,3:125," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig.BswMArbitration.BswMModeRequestPort">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:184,2:131,3:151," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig.BswMArbitration.BswMRule">
+            <Setting Value="0,1,2,3,4,5,6,7," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:103,2:168,3:152,4:158,5:78,6:117,7:155," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.BswM.BswMConfig.BswMModeControl.BswMActionList">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:133,2:155,3:141," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.EcuM.EcuMConfiguration.EcuMFlexConfiguration.EcuMAlarmClock">
+            <Setting Value="0,1,2,3,4," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:140,2:122,3:163,4:137," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.EcuM.EcuMConfiguration.EcuMFlexConfiguration.EcuMDriverInitListBswM">
+            <Setting Value="0,1," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:182," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.EcuM.EcuMConfiguration.EcuMFlexConfiguration.EcuMFlexUserConfig">
+            <Setting Value="0,1,2,3,4," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:162,2:164,3:90,4:159," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.EcuM.EcuMConfiguration.EcuMFlexConfiguration.EcuMResetMode">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:159,2:124," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.EcuM.EcuMConfiguration.EcuMFlexConfiguration.EcuMShutdownCause">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:180,2:149," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsAlarm">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:93,2:144,3:201," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsApplication">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:21,1:188,2:166,3:233,4:223,5:157,6:177,7:109,8:81,9:309,10:243,11:122,12:234,13:134,14:166,15:176,16:131," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsCore">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:86,2:149,3:144,4:131,5:127,6:135,7:168,8:149,9:150,10:188,11:220," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsCore.OsCoreXSignalChannel">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:175,2:233,3:188," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsCounter.OsTimeConstant">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:137,2:118," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsEvent">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:90,2:104," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsIsr">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11,12,13," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:21,1:166,2:108,3:143,4:228,5:163,6:151,7:150,8:138,9:223,10:187,11:150,12:108,13:132," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsIsr.OsIsrTimingProtection.OsIsrResourceLock">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:154,2:204,3:221," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsMemoryProtection.OsAccessCheckRegion">
+            <Setting Value="0,1,2,3,4,5," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:174,2:238,3:243,4:243,5:208," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsMemoryProtection.OsMemoryRegion">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:21,1:272,2:208,3:186,4:172,5:220,6:246,7:213,8:265,9:206,10:164," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsOS.OsStackSummary.OsStack">
+            <Setting Value="0,1,2,3,4,5," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:207,2:99,3:131,4:212,5:166," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsResource">
+            <Setting Value="0,1,2,3,4," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:113,2:214,3:145,4:221," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsScheduleTable">
+            <Setting Value="0,1,2,3,4,5," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:143,2:198,3:214,4:188,5:209," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsSpinlock">
+            <Setting Value="0,1,2,3,4,5," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:108,2:167,3:149,4:148,5:216," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Os.OsTask">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11,12," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:131,2:123,3:235,4:108,5:119,6:146,7:162,8:95,9:120,10:193,11:121,12:144," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteBswModuleInstance">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:177,2:177,3:214," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteBswModuleInstance.RteBswEventToTaskMapping">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:21,1:217,2:187,3:217,4:170,5:186,6:155,7:174,8:171,9:254,10:210,11:141," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteOsInteraction">
+            <Setting Value="0,1," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:139," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteOsInteraction.RteModeToScheduleTableMapping">
+            <Setting Value="0,1,2,3," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:249,2:187,3:274," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteOsInteraction.RteUsedOsActivation">
+            <Setting Value="0,1,2,3,4,5,6," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:163,2:173,3:181,4:166,5:217,6:199," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteSwComponentInstance">
+            <Setting Value="0,1,2," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:20,1:239,2:235," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+        <Settings Name="com.vector.cfg.gui.gce.internal.GCETable.MICROSAR.Rte.RteSwComponentInstance.RteEventToTaskMapping">
+            <Setting Value="0,1,2,3,4,5,6,7,8,9,10,11,12," Name="nattable.BODY.columnIndexOrder"/>
+            <Setting Value="0:21,1:493,2:160,3:210,4:493,5:143,6:159,7:141,8:128,9:147,10:144,11:227,12:209," Name="nattable.BODY.columnWidth.sizes"/>
+            <Setting Value="ASC" Name="nattable.sortDirections"/>
+            <Setting Value="1" Name="nattable.sortIndexes"/>
+        </Settings>
+    </Settings>
+    <Settings Name="com.vector.cfg.consistency.internal.executer.BackgroundValidationExecuter">
+        <Setting Value="rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz&#xA;aG9sZHhwP0AAAAAAADB3CAAAAEAAAAAtdAA9Y29tLnZlY3Rvci5jZmcuZ2VuLk9zX0NvcmVHZW43&#xA;LnZhbGlkYXRpb24uT3NDb3JlQ29yZVZhbGlkYXRvcnNyAA5qYXZhLmxhbmcuTG9uZzuL5JDMjyPf&#xA;AgABSgAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAAAAgAAAHQARWNv&#xA;bS52ZWN0b3IuY2ZnLmdlbi5FY3VDX0FzckVjdUMudmFsaWRhdGlvbi5QZHVMZW5ndGhUeXBlRW51&#xA;bVZhbGlkYXRvcnNxAH4AAwAAAAACAAAAdABPY29tLnZlY3Rvci5jZmcudmFsaWRhdGlvbi5iYXNp&#xA;Y3J1bGVzLm1zci5pbnRlcm5hbC5udW1lcmljYWxjaGVjay5OdW1lcmljYWxDaGVja3NxAH4AAwAA&#xA;AAADAAAAdABJY29tLnZlY3Rvci5jZmcuZ2VuLlN5c1NlcnZpY2VfQXNyNEJzd01DZmc1LnZhbGlk&#xA;YXRpb24uQnN3TU52TVJlcXVlc3RDaGVja3NxAH4AAwAAAAABAAAAdAA+Y29tLnZlY3Rvci5jZmcu&#xA;Z2VuLk9zX0NvcmVHZW43LnZhbGlkYXRpb24uT3NDb3JlQ29yZXNWYWxpZGF0b3JzcQB+AAMAAAAA&#xA;BAAAAHQAT2NvbS52ZWN0b3IuY2ZnLnZhbGlkYXRpb24uYmFzaWNydWxlcy5tc3IuaW50ZXJuYWwu&#xA;YmFzZXZhbHVlY2hlY2suQmFzZVZhbHVlQ2hlY2tzcQB+AAMAAAAAAgAAAHQARGNvbS52ZWN0b3Iu&#xA;Y2ZnLmdlbi5Pc19Db3JlR2VuNy52YWxpZGF0aW9uLk9zQ29yZUFwcGxpY2F0aW9uVmFsaWRhdG9y&#xA;c3EAfgADAAAAAAEAAAB0AE9jb20udmVjdG9yLmNmZy5nZW4uT3NfQ29yZUdlbjcudmFsaWRhdGlv&#xA;bi52bGlua2dlbi5WTGlua0dlblNlY3Rpb25zVmFyVmFsaWRhdG9yc3EAfgADAAAAAAMAAAB0AEJj&#xA;b20udmVjdG9yLmNmZy5nZW4uT3NfQ29yZUdlbjcudmFsaWRhdGlvbi5Pc1B1Ymxpc2hlZEluZm9W&#xA;YWxpZGF0b3JzcQB+AAMAAAAAAgAAAHQAQ2NvbS52ZWN0b3IuY2ZnLm1vZGVsLnN3Y3RlbXBsYXRl&#xA;cy5pbnRlcm5hbC52YWxpZGF0aW9uLlN3Y1ZhbGlkYXRpb25zcQB+AAMAAAAAXQAAAHQATmNvbS52&#xA;ZWN0b3IuY2ZnLmdlbi5Db21tb25Bc3JfdlNldC52YWxpZGF0aW9uLlZTZXRTeW5jVGV4dHVhbFBh&#xA;cmFtZXRlclZhbGlkYXRvcnNxAH4AAwAAAAACAAAAdABdY29tLnZlY3Rvci5jZmcuZ2VuLkNvbW1v&#xA;bkFzcl9Db21TdGFja0xpYi52YWxpZGF0aW9uLkNzbEludGVyZmFjZXNGb3JEZWFjdGl2YXRlZERh&#xA;dGFWYWxpZGF0aW9uc3EAfgADAAAAAAEAAAB0AEpjb20udmVjdG9yLmNmZy5nZW4uT3NfQ29yZUdl&#xA;bjcudmFsaWRhdGlvbi5Pc0NvcmVBcHBsaWNhdGlvblN5c3RlbVZhbGlkYXRvcnNxAH4AAwAAAAAC&#xA;AAAAdABJY29tLnZlY3Rvci5jZmcuZ2VuLk9zX0NvcmVHZW43LnZhbGlkYXRpb24uT3NDb3JlU3Rh&#xA;Y2tTdW1tYXJ5VGFza1ZhbGlkYXRvcnNxAH4AAwAAAAABAAAAdAA4Y29tLnZlY3Rvci5jZmcuZ2Vu&#xA;LnZCUlMudmFsaWRhdGlvbi5CcnNPc1VzZUNhc2VWYWxpZGF0b3JzcQB+AAMAAAAAAQAAAHQARWNv&#xA;bS52ZWN0b3IuY2ZnLmdlbi5JbF9Bc3JJcGR1TUNmZzUudmFsaWRhdGlvbi5JcGR1TUV4aXN0ZW5j&#xA;ZVZhbGlkYXRvcnNxAH4AAwAAAAABAAAAdABIY29tLnZlY3Rvci5jZmcuZ2VuLk9zX0NvcmVHZW43&#xA;LnZhbGlkYXRpb24uT3NDb3JlU3RhY2tTdW1tYXJ5SXNyVmFsaWRhdG9yc3EAfgADAAAAAAEAAAB0&#xA;AF9jb20udmVjdG9yLmNmZy5nZW4uU3lzU2VydmljZV9Bc3I0RWN1TS52YWxpZGF0aW9uLmNvbW1v&#xA;blZhbGlkYXRpb25zLkVjdU1Ob0RlZmF1bHRTbGVlcFJlc2V0TW9kZXNxAH4AAwAAAAACAAAAdAA+&#xA;Y29tLnZlY3Rvci5jZmcuZ2VuLk9zX0NvcmVHZW43LnZhbGlkYXRpb24uT3NDb3JlQWxhcm1WYWxp&#xA;ZGF0b3JzcQB+AAMAAAAAAgAAAHQAWWNvbS52ZWN0b3IuY2ZnLnZhbGlkYXRpb24uYmFzaWNydWxl&#xA;cy5tc3IuaW50ZXJuYWwubXVsdGlwbGljaXR5Lk11bHRpcGxpY2l0eUNoZWNrQ29udGFpbmVyc3EA&#xA;fgADAAAAAAIAAAB0AERjb20udmVjdG9yLmNmZy5tb2RlbC5zZXJ2aWNlcy5ydW50aW1lc3lzLm9z&#xA;LmludGVybmFsLk9zSXNyVmFsaWRhdGlvbnNxAH4AAwAAAAABAAAAdABQY29tLnZlY3Rvci5jZmcu&#xA;Z2VuLk9zX0NvcmVHZW43LnZhbGlkYXRpb24udmxpbmtnZW4uVkxpbmtHZW5TZWN0aW9uc0NvZGVW&#xA;YWxpZGF0b3JzcQB+AAMAAAAAAwAAAHQAUmNvbS52ZWN0b3IuY2ZnLmdlbi5Pc19Db3JlR2VuNy52&#xA;YWxpZGF0aW9uLnZsaW5rZ2VuLlZMaW5rR2VuU2VjdGlvbnNTdGFja3NWYWxpZGF0b3JzcQB+AAMA&#xA;AAAAAwAAAHQAWmNvbS52ZWN0b3IuY2ZnLmdlbi5Db21tb25Bc3JfQ29tU3RhY2tMaWIudmFsaWRh&#xA;dGlvbi5Dc2xPdXRPZkJvdW5kc1dyaXRlU2FuaXRpemVyVmFsaWRhdGlvbnNxAH4AAwAAAAACAAAA&#xA;dABAY29tLnZlY3Rvci5jZmcuZ2VuLk9zX0NvcmVHZW43LnZhbGlkYXRpb24uT3NDb3JlQ291bnRl&#xA;clZhbGlkYXRvcnNxAH4AAwAAAAABAAAAdABTY29tLnZlY3Rvci5jZmcudmFsaWRhdGlvbi5iYXNp&#xA;Y3J1bGVzLm1zci5pbnRlcm5hbC5VbmlxdWVTeW1ib2xpY05hbWVWYWx1ZVZhbGlkYXRpb25zcQB+&#xA;AAMAAAAABAAAAHQASmNvbS52ZWN0b3IuY2ZnLmdlbi5Pc19Db3JlR2VuNy52YWxpZGF0aW9uLk9z&#xA;Q29yZUFsYXJtQWN0aXZhdGVUYXNrVmFsaWRhdG9yc3EAfgADAAAAAAEAAAB0AEFjb20udmVjdG9y&#xA;LmNmZy5nZW4uT3NfQ29yZUdlbjcudmFsaWRhdGlvbi5Pc0NvcmVSZXNvdXJjZVZhbGlkYXRvcnNx&#xA;AH4AAwAAAAABAAAAdAA6Y29tLnZlY3Rvci5jZmcuZ2VuLnZCUlMudmFsaWRhdGlvbi5CcnNIV0hh&#xA;bmRsaW5nc1ZhbGlkYXRvcnNxAH4AAwAAAAABAAAAdABIY29tLnZlY3Rvci5jZmcubW9kZWwuc2Vy&#xA;dmljZXMuY29tLmVjdWMuaW50ZXJuYWwuRWN1Y0Jzd0luaXRGY3RWYWxpZGF0aW9uc3EAfgADAAAA&#xA;AAEAAAB0AFFjb20udmVjdG9yLmNmZy5nZW4uT3NfQ29yZUdlbjcudmFsaWRhdGlvbi52bGlua2dl&#xA;bi5WTGlua0dlblNlY3Rpb25zQ29uc3RWYWxpZGF0b3JzcQB+AAMAAAAAAwAAAHQAWWNvbS52ZWN0&#xA;b3IuY2ZnLmdlbi5TeXNTZXJ2aWNlX0FzcjRFY3VNLnZhbGlkYXRpb24uY29tbW9uVmFsaWRhdGlv&#xA;bnMuRWN1TUhhbmRsZUlkVmFsaWRhdG9yc3EAfgADAAAAAB0AAAB0AEZjb20udmVjdG9yLmNmZy5t&#xA;b2RlbC5zeXNkZXNjLnR5cGVzLnZhbGlkYXRpb24uRGF0YUNvbnN0clZhbGlkYXRpb25SdWxlc3EA&#xA;fgADAAAAAAcAAAB0AEFjb20udmVjdG9yLmNmZy52YWxpZGF0aW9uLmJhc2ljcnVsZXMubXNyLmlu&#xA;dGVybmFsLkRlZmluaXRpb25DaGVja3NxAH4AAwAAAAAKAAAAdABpY29tLnZlY3Rvci5jZmcubW9k&#xA;ZWwuc3lzZGVzYy5pbnRlcm5hbC5wb3J0cy5tYXBwaW5nLnZhbGlkYXRpb24uQmFzZUludmFsaWRT&#xA;dWJFbGVtZW50TWFwcGluZ1ZhbGlkYXRpb25SdWxlc3EAfgADAAAAAAEAAAB0AFljb20udmVjdG9y&#xA;LmNmZy52YWxpZGF0aW9uLmJhc2ljcnVsZXMubXNyLmludGVybmFsLm11bHRpcGxpY2l0eS5NdWx0&#xA;aXBsaWNpdHlDaGVja1BhcmFtZXRlcnNxAH4AAwAAAAAFAAAAdABJY29tLnZlY3Rvci5jZmcuZ2Vu&#xA;Lk9zX0NvcmVHZW43LnZhbGlkYXRpb24uT3NDb3JlU3RhY2tTdW1tYXJ5Q29yZVZhbGlkYXRvcnNx&#xA;AH4AAwAAAAABAAAAdABIY29tLnZlY3Rvci5jZmcuZ2VuLlN5c1NlcnZpY2VfQXNyRGV0LnZhbGlk&#xA;YXRpb24uRGV0Rm9yd2FyZFRvRGx0VmFsaWRhdG9yc3EAfgADAAAAAAIAAAB0AEZjb20udmVjdG9y&#xA;LmNmZy5nZW4uT3NfQ29yZUdlbjcudmFsaWRhdGlvbi5Pc0NvcmVJc3JQcmlvcml0aWVzVmFsaWRh&#xA;dG9yc3EAfgADAAAAAAEAAAB0AGJjb20udmVjdG9yLmNmZy5tb2RlbC5zZXJ2aWNlcy5pbnRlcm5h&#xA;bC5ic3dpbnRiZWhhdmlvci5zeW5jaHJvbml6YXRpb24uQnN3SW50ZXJuYWxCZWhhdmlvclZhbGlk&#xA;YXRvcnNxAH4AAwAAAAAEAAAAdABcY29tLnZlY3Rvci5jZmcuZ2VuLkNvbW1vbkFzcl9Db21TdGFj&#xA;a0xpYi52YWxpZGF0aW9uLkNzbE91dE9mQm91bmRzUmVhZFNhbml0aXplckRldFZhbGlkYXRpb25z&#xA;cQB+AAMAAAAAAQAAAHQAT2NvbS52ZWN0b3IuY2ZnLmdlbi5Hd19Bc3JQZHVSQ2ZnNS52YWxpZGF0&#xA;aW9uLlBkdVJBdG9taWNWYXJpYWJsZUFjY2Vzc1ZhbGlkYXRpb25zcQB+AAMAAAAAAQAAAHQARWNv&#xA;bS52ZWN0b3IuY2ZnLmRvbS5ydW50aW1lc3lzLnZhbGlkYXRpb25zLmludGVybmFsLlREU0NmZ052&#xA;QmxvY2tOZWVkc3NxAH4AAwAAAAABAAAAdAA3Y29tLnZlY3Rvci5jZmcuZ2VuLlJ0ZS52YWxpZGF0&#xA;aW9uLlZhbGlkYXRvckNoYWluQnVpbGRlcnNxAH4AAwAAAAANAAAAdABBY29tLnZlY3Rvci5jZmcu&#xA;ZG9tLnJ1bnRpbWVzeXMucnRlc2V0dXAuaW50ZXJuYWwuQXV0b21hdGljUnRlU2V0dXBzcQB+AAMA&#xA;AAAAFQAAAHg=" Name="ValidationRuleExecutionTimes"/>
+    </Settings>
+    <Settings Name="com.vector.cfg.gui.moduleimport.history">
+        <Settings Name="1713942998306">
+            <Settings Name="0">
+                <Settings Name="0">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Adc/Adc" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="1">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Can/Can" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="10">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Port/Port" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="11">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Pwm/Pwm" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="12">
+                    <Setting Value="true" Name="active"/>
+                    <Setting Value="/ResourceM/ResourceM" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="13">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Spi/Spi" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="2">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Dio/Dio" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="3">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Dma/Dma" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="4">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Fls/Fls" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="5">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Gpt/Gpt" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="6">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Icu/Icu" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="7">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/Irq/Irq" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="8">
+                    <Setting Value="false" Name="active"/>
+                    <Setting Value="/McalLib/McalLib" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Settings Name="9">
+                    <Setting Value="true" Name="active"/>
+                    <Setting Value="/Mcu/Mcu" Name="ecucPath"/>
+                    <Setting Value="Add" Name="importMode"/>
+                </Settings>
+                <Setting Value="C:\WORK\McalCfg\Mcal.arxml" Name="filePath"/>
+            </Settings>
+        </Settings>
+    </Settings>
+</Settings>
