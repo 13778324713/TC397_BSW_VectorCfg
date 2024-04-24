@@ -21,7 +21,7 @@
  *  FILE DESCRIPTION
  *  -------------------------------------------------------------------------------------------------------------------
  *              File: BswM_Lcfg.c
- *   Generation Time: 2024-04-24 17:50:18
+ *   Generation Time: 2024-04-24 20:25:09
  *           Project: TC387BSW_VCTR - Version 1.1
  *          Delivery: CBD1900005_D02
  *      Tool Version: DaVinci Configurator  5.19.50 SP3

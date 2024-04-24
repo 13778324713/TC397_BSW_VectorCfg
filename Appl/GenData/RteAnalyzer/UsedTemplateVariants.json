@@ -1,7 +1,7 @@
 {
    "description" : "RTE Analyzer used templates",
    "version" : "1.20.0",
-   "RTEOutputDirectory" : "C:/WORK/Vector_Cfg/01_V01.1/Appl/GenData/",
+   "RTEOutputDirectory" : "C:/WORK/Vector_Cfg/TC397_BSW_VectorCfg/Appl/GenData/",
    "Templates" : {
       "Rte.c" : {
          "Rte_DisableAllInterrupts" : {
