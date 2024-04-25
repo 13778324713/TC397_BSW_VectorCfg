@@ -54,8 +54,6 @@
  *  Rte_Task_Terminate
  *  SchM_EnterHook_BswM_BSWM_EXCLUSIVE_AREA_0_Return
  *  SchM_EnterHook_BswM_BSWM_EXCLUSIVE_AREA_0_Start
- *  SchM_EnterHook_Det_DET_EXCLUSIVE_AREA_0_Return
- *  SchM_EnterHook_Det_DET_EXCLUSIVE_AREA_0_Start
  *  SchM_EnterHook_EcuM_ECUM_EXCLUSIVE_AREA_0_Return
  *  SchM_EnterHook_EcuM_ECUM_EXCLUSIVE_AREA_0_Start
  *  SchM_EnterHook_EcuM_ECUM_EXCLUSIVE_AREA_1_Return
@@ -68,8 +66,6 @@
  *  SchM_EnterHook_Mcu_TomTgcReg_Start
  *  SchM_ExitHook_BswM_BSWM_EXCLUSIVE_AREA_0_Return
  *  SchM_ExitHook_BswM_BSWM_EXCLUSIVE_AREA_0_Start
- *  SchM_ExitHook_Det_DET_EXCLUSIVE_AREA_0_Return
- *  SchM_ExitHook_Det_DET_EXCLUSIVE_AREA_0_Start
  *  SchM_ExitHook_EcuM_ECUM_EXCLUSIVE_AREA_0_Return
  *  SchM_ExitHook_EcuM_ECUM_EXCLUSIVE_AREA_0_Start
  *  SchM_ExitHook_EcuM_ECUM_EXCLUSIVE_AREA_1_Return

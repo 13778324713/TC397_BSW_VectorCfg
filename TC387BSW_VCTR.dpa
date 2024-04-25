@@ -70,9 +70,6 @@
         <Splitter File=".\Config\ECUC\TC387BSW_VCTR_Rte_ecuc.arxml">
             <Module Name="Rte"/>
         </Splitter>
-        <Splitter File=".\Config\ECUC\TC387BSW_VCTR_Det_ecuc.arxml">
-            <Module Name="Det"/>
-        </Splitter>
         <Splitter File=".\Config\ECUC\TC387BSW_VCTR_BswM_ecuc.arxml">
             <Module Name="BswM"/>
         </Splitter>
@@ -99,7 +96,9 @@
                     </Settings>
                 </Settings>
             </Settings>
-            <Settings Name="com.vector.cfg.gui.core.generators.GeneratedModules"/>
+            <Settings Name="com.vector.cfg.gui.core.generators.GeneratedModules">
+                <Setting Value="false" Name="Det"/>
+            </Settings>
         </Generators>
         <Misc>
             <Settings Name="com.vector.cfg.gen.core.bswmdmigration.internal.service.BswImplVersionPersistor">

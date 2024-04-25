@@ -33,11 +33,9 @@
 #include "Rte_Main.h"
 
 #include "Rte_BswM.h"
-#include "Rte_Det.h"
 #include "Rte_EcuM.h"
 #include "Rte_Os_OsCore0_swc.h"
 #include "SchM_BswM.h"
-#include "SchM_Det.h"
 #include "SchM_EcuM.h"
 #include "SchM_Mcu.h"
 

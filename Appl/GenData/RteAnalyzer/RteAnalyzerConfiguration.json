@@ -468,26 +468,6 @@
             "Source",
             "..",
             "../Components",
-            "../Components/Det"
-         ],
-         "SourceFile" : "Source/Det.c"
-      },
-      {
-         "IncludeDirectoryList" : [
-            "C:/Vector/CBD1900005_D02_Tricore/Misc/RteAnalyzer/include",
-            "Source",
-            "..",
-            "../Components",
-            "../Components/TSC_SchM_Det"
-         ],
-         "SourceFile" : "Source/TSC_SchM_Det.c"
-      },
-      {
-         "IncludeDirectoryList" : [
-            "C:/Vector/CBD1900005_D02_Tricore/Misc/RteAnalyzer/include",
-            "Source",
-            "..",
-            "../Components",
             "../Components/EcuM"
          ],
          "SourceFile" : "Source/EcuM.c"
@@ -531,16 +511,6 @@
             "../Components/TSC_BswM"
          ],
          "SourceFile" : "Source/TSC_BswM.c"
-      },
-      {
-         "IncludeDirectoryList" : [
-            "C:/Vector/CBD1900005_D02_Tricore/Misc/RteAnalyzer/include",
-            "Source",
-            "..",
-            "../Components",
-            "../Components/TSC_Det"
-         ],
-         "SourceFile" : "Source/TSC_Det.c"
       },
       {
          "IncludeDirectoryList" : [

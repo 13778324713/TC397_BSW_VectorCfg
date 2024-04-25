@@ -157,65 +157,6 @@
  *********************************************************************************************************************/
 /**********************************************************************************************************************
  * DO NOT CHANGE THIS COMMENT!     << Start of compiler abstraction implementation >>       DO NOT CHANGE THIS COMMENT!
- * Symbol: RTE_DET_APPL
- *********************************************************************************************************************/
-
-/* used for references on application variables */
-# define RTE_DET_APPL_VAR
-
-/* used for references on application data (constants or variables) */
-# define RTE_DET_APPL_DATA
-
-/* used for references on application functions */
-# define RTE_DET_APPL_CODE
-
-/* used for references on application constants */
-# define RTE_DET_APPL_CONST
-
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!      << End of compiler abstraction implementation >>        DO NOT CHANGE THIS COMMENT!
- *********************************************************************************************************************/
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!     << Start of compiler abstraction implementation >>       DO NOT CHANGE THIS COMMENT!
- * Symbol: Det_CODE
- *********************************************************************************************************************/
-
-/* used for SWC specific code */
-# define Det_CODE
-
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!      << End of compiler abstraction implementation >>        DO NOT CHANGE THIS COMMENT!
- *********************************************************************************************************************/
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!     << Start of compiler abstraction implementation >>       DO NOT CHANGE THIS COMMENT!
- * Symbol: Det_CONST
- *********************************************************************************************************************/
-
-/* used for global or static SWC specific constants */
-# define Det_CONST
-
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!      << End of compiler abstraction implementation >>        DO NOT CHANGE THIS COMMENT!
- *********************************************************************************************************************/
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!     << Start of compiler abstraction implementation >>       DO NOT CHANGE THIS COMMENT!
- * Symbol: Det_VAR
- *********************************************************************************************************************/
-
-/* used for all global or static SWC specific variables that are not initialized by the startup code of the compiler */
-# define Det_VAR_NOINIT
-
-/* used for global or static SWC specific variables that are initialized by the startup code of the compiler */
-# define Det_VAR_INIT
-
-/* used for global or static SWC specific variables that are initialized with zero by the startup code of the compiler */
-# define Det_VAR_ZERO_INIT
-
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!      << End of compiler abstraction implementation >>        DO NOT CHANGE THIS COMMENT!
- *********************************************************************************************************************/
-/**********************************************************************************************************************
- * DO NOT CHANGE THIS COMMENT!     << Start of compiler abstraction implementation >>       DO NOT CHANGE THIS COMMENT!
  * Symbol: RTE_ECUM_APPL
  *********************************************************************************************************************/
 

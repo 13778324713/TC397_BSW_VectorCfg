@@ -3,34 +3,6 @@
   <AR-PACKAGES>
     <AR-PACKAGE UUID="ff55d029-386d-43a2-b3c2-dfef4c7a5e36">
       <SHORT-NAME>MICROSAR</SHORT-NAME>
-      <AR-PACKAGES>
-        <AR-PACKAGE UUID="2263d882-3047-49cc-8e20-129503b7a489">
-          <SHORT-NAME>Det_ib_bswmd</SHORT-NAME>
-          <AR-PACKAGES>
-            <AR-PACKAGE UUID="88463ae8-1bef-4471-9852-31de911b61c0">
-              <SHORT-NAME>BswModuleDescriptions</SHORT-NAME>
-              <ELEMENTS>
-                <BSW-MODULE-DESCRIPTION UUID="4014fde7-49a1-4dbe-8857-9620edf2fa9f">
-                  <SHORT-NAME>Det</SHORT-NAME>
-                  <INTERNAL-BEHAVIORS>
-                    <BSW-INTERNAL-BEHAVIOR UUID="e51bccd6-2785-4c4d-8670-44fa431a7569">
-                      <SHORT-NAME>DetBehavior</SHORT-NAME>
-                      <EXCLUSIVE-AREAS>
-                        <EXCLUSIVE-AREA UUID="85156b3c-a9d6-430b-a4eb-967f3c9b115a">
-                          <SHORT-NAME>DET_EXCLUSIVE_AREA_0</SHORT-NAME>
-                          <DESC>
-                            <L-2 L="FOR-ALL">Critical section to guarantee atomic handling of log buffer, requires global interrupt disabling.</L-2>
-                          </DESC>
-                        </EXCLUSIVE-AREA>
-                      </EXCLUSIVE-AREAS>
-                    </BSW-INTERNAL-BEHAVIOR>
-                  </INTERNAL-BEHAVIORS>
-                </BSW-MODULE-DESCRIPTION>
-              </ELEMENTS>
-            </AR-PACKAGE>
-          </AR-PACKAGES>
-        </AR-PACKAGE>
-      </AR-PACKAGES>
     </AR-PACKAGE>
   </AR-PACKAGES>
 </AUTOSAR>

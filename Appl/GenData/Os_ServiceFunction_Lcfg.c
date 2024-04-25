@@ -21,7 +21,7 @@
  *  FILE DESCRIPTION
  *  -------------------------------------------------------------------------------------------------------------------
  *              File: Os_ServiceFunction_Lcfg.c
- *   Generation Time: 2024-04-24 20:24:38
+ *   Generation Time: 2024-04-25 18:21:31
  *           Project: TC387BSW_VCTR - Version 1.1
  *          Delivery: CBD1900005_D02
  *      Tool Version: DaVinci Configurator  5.19.50 SP3
